@@ -233,5 +233,13 @@
     "symbol": "BIG",
     "chainId": 2741,
     "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0xDf70075737E9F96B078ab4461EeE3e055E061223.png"
+  },
+  {
+    "name": "Son of Pengu",
+    "address": "0x17f4Ee472413988324A6517835cEd2264f6A355B",
+    "symbol": "SONGU",
+    "decimals": 18,
+    "chainId": 2741,
+    "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x17f4Ee472413988324A6517835cEd2264f6A355B.png"
   }
 ]
